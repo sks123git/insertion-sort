@@ -1,5 +1,5 @@
 // Program for insertion sort.
-public class Main {
+public class InsertionSort {
     public static void insertionSort(int[] arr){
         int i = 1;
         while (i != arr.length){
